@@ -1,0 +1,19 @@
+body {
+	background-color: #8eb5f2;
+}
+button {
+	border: none;
+	width: 20%;
+	height: auto;
+	padding: 10px;
+	margin-left: 30%;
+}
+button:hover {
+	cursor: pointer;
+	background-color: #b7babf;
+	color: #fff;
+}
+#joke {
+	color: red;
+	text-align: center;
+}
